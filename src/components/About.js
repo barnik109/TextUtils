@@ -67,7 +67,7 @@ const About = () => {
   </div>
 </div>
 <div className="container">
-<button type="button" onClick={toggleStyle} className="btn btn-primary">{btntext}</button>
+<button type="button" onClick={toggleStyle} className="btn btn-primary my-3">{btntext}</button>
 </div>
 </div>
   )
